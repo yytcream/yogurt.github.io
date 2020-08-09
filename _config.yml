@@ -1,11 +1,11 @@
-name: yogurt
-author: yyt
-url: 
+name: A Blog
+author: yytcream
+url: http://yytcream.github.io
 baseurl: 
-resume_site: 
+resume_site: http://yytcream.github.io
 description: 
-github_username: 
-github: 
+github_username: yytcream
+github: http://github.com/yytcream
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
@@ -17,6 +17,6 @@ comments :
   gitalk :
     clientID : 
     clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    repo : yytcream.github.io
+    owner : yytcream
+    admin : yytcream
